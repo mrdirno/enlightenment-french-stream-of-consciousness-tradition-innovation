@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-stream-of-consciousness-tradition-innovation",
+  "title": "The Substrate Cartographer",
+  "tagline": "A debt-tracer of the soul maps the vanishing point between Enlightenment reason and the chaos of raw consciousness.",
+  "target_words": 70000,
+  "actual_words": 65828,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Perception",
+    "The Debt of Being",
+    "Rational Maps for Irrational Territories",
+    "The Collapse of Narrative Consensus"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Geometry of Afternoon",
+      "words": 2743
+    },
+    {
+      "ch": 2,
+      "title": "The Debris of a Life",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Wild, Spiraling Equations",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "A Break in the Pattern",
+      "words": 2700
+    },
+    {
+      "ch": 5,
+      "title": "The Café of Unwritten Stories",
+      "words": 2650
+    },
+    {
+      "ch": 6,
+      "title": "The Laundress's Testimony",
+      "words": 2600
+    },
+    {
+      "ch": 7,
+      "title": "Echoes in the Ledger",
+      "words": 2750
+    },
+    {
+      "ch": 8,
+      "title": "The Scent of Ozone",
+      "words": 2850
+    },
+    {
+      "ch": 9,
+      "title": "Valence's First Principle",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Bridge of Sighs",
+      "words": 2650
+    },
+    {
+      "ch": 11,
+      "title": "A Needle Stitching Silence",
+      "words": 2700
+    },
+    {
+      "ch": 12,
+      "title": "The Library of Unfinished Thoughts",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "The Consensus Frays",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Lucien's Own Ledger",
+      "words": 2600
+    },
+    {
+      "ch": 15,
+      "title": "The Physics of Disappearance",
+      "words": 2750
+    },
+    {
+      "ch": 16,
+      "title": "Into the Cracks",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "The Sound of Scaffolding",
+      "words": 2700
+    },
+    {
+      "ch": 18,
+      "title": "The Fifth-Floor Anomaly",
+      "words": 2650
+    },
+    {
+      "ch": 19,
+      "title": "A Map Without a Territory",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Un-narrated Data",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Cost of Attention",
+      "words": 2750
+    },
+    {
+      "ch": 22,
+      "title": "The Final Calculation",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "The Door You Didn't Know Was There",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "A Different Silence",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Madame Renard's canary, whose song 'stitches the silence' and perceives the fraying of reality in the building.",
+      "Create the journal entries of Professor Valence in the week before he approaches Lucien, detailing his growing dread and rationalization of Moreau's work.",
+      "Write a 'debt ledger' entry for Lucien himself, mapping the emotional and perceptual debts he has accrued that make him susceptible to Moreau's case.",
+      "Draft a scene where Lucien, using his method, traces the 'pattern of avoidance' in a seemingly ordinary person who is also on the verge of perceiving The Substrate."
+    ],
+    "technical": [
+      "Build a 'Consensus Engine' text generator that takes a scene description and re-writes it from the 'Substrate' perspective—the raw, unfiltered sensory data before the mind narrates it into a stable story.",
+      "Create a visual or interactive 'Pattern Map' for a character, showing the 'financial footprints' and habitual data points Lucien would analyze, and allowing users to find the anomaly that breaks the pattern."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcel Proust",
+      "Denis Diderot",
+      "Virginia Woolf",
+      "Baruch Spinoza"
+    ]
+  },
+  "cover_prompt": "A lone figure, a cartographer of the intangible, stands at a drafting table that is both a precise Enlightenment-era instrument and a living, root-like growth from the floor of a vast, crumbling neoclassical hall, meticulously inscribing not land but luminous, synaptic pathways onto a translucent vellum map that floats before them, the lines shifting between perfect geometric order and wild, organic chaos. The grand hall's walls are lined with towering shelves of leather-bound books whose titles are indecipherable, while sections of the architecture dissolve into raw, swirling matter and abstract impressions of faces and memories, representing the collapse of consensus reality. In the atmospheric style of Zdzisław Beksiński's architectural surrealism and the luminous precision of Caspar David Friedrich's romantic landscapes, blended with the textured, psychological depth of Anselm Kiefer. Book cover framing, centered on the cartographer and their impossible map, viewed from a low angle to emphasize both their solitude and the monumental scale of the decaying hall around them. Dramatic chiaroscuro lighting from a single, unseen source illuminates the cartographer and the map, casting long, distorted shadows, with a color palette of deep umber, aged parchment gold, and the cold blue of reason, all pierced by the feverish, bioluminescent orange of the chaotic consciousness bleeding into the ordered lines. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
